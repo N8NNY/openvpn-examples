@@ -1,0 +1,11 @@
+[openvpn]
+openvpn.local
+
+[control_plane]
+node1.local
+
+[worker_node]
+node[2:3].local
+
+[all:vars]
+ansible_user=vagrant
