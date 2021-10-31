@@ -1,0 +1,5 @@
+---
+roles:
+  - name: kyl191.openvpn 
+    version: v0.9.1
+
